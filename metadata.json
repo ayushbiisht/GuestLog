@@ -1,0 +1,6 @@
+{
+  "name": "GuestLog",
+  "description": "Internal management portal for hotel room inventory and occupancy tracking, featuring a monthly calendar, category management, and a day-by-day timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
